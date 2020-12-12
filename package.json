@@ -1,6 +1,6 @@
 {
   "name": "quote-app-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mind.js based API server for Quote app with all necessary CI/CD integrations",
   "main": "src/main.js",
   "engines": {
